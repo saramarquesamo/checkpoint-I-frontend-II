@@ -13,3 +13,5 @@ Esta atividade tem como objetivo servir como primeiro instrumento avaliativo da 
 
 # Veja o Protótipo da nossa idéia para o projeto ;) 
 https://www.figma.com/file/h3jl1qwlDmJoGk0csRbfOj/Checkpoint-I-Frontend-II?node-id=0%3A1
+
+### Este trabalho consiste na criação de uma feira online para doação de pets

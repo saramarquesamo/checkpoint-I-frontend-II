@@ -15,3 +15,6 @@ b. Após o preenchimento, ao clicar no botão de submit, as informações devem 
 
 a. Os cards devem ter uma imagem e constar todas as informações previamente preenchidas no formulário. 
 b. O comportamento se dará de forma que as informações preenchidas sejam exibidas na seção de cards.
+
+# Veja o Protótipo do projeto
+https://www.figma.com/file/h3jl1qwlDmJoGk0csRbfOj/Checkpoint-I-Frontend-II?node-id=0%3A1

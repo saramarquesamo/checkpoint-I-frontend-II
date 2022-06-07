@@ -1,4 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Thambi+2:wght@400;500;600;700;800&display=swap');
 * {
   background-color: #47EBE2;
-  text-align: center;
+  padding:0;
+  margin:0;
+  vertical-align:baseline;
+  list-style:none;
+  border:0;
+  box-sizing: border-box;
+  font-family: 'Baloo Thambi 2';
+  }
+
+.text #title{
+  font-size: 128px;
+  color: #794245;
+}
+
+.text p {
+  font-size: 35px;
+  color: #794245;
+}
+.botao button a{
+  background-color:#F79726;
+  text-decoration: none;
+  text-transform: uppercase;
+  
 }

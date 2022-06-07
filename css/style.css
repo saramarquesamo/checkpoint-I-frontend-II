@@ -10,9 +10,28 @@
   font-family: 'Baloo Thambi 2';
   }
 
+  .flex-container {
+    display: flex;
+    background-color: DodgerBlue;
+    margin: 8% 10% 5% 10%;
+  }
+  .title {
+    padding-top: 10%;
+    line-height: 130px;
+  }
+
+  #dog {
+    text-align: right;
+  }
+
+ .text{
+   
+ } 
+
 .text #title{
   font-size: 128px;
   color: #794245;
+  overflow-wrap: break-word;
 }
 
 .text p {
